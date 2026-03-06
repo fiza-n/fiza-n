@@ -6,6 +6,7 @@ Hi, I'm Fiza Noor 👋
 I'm a Frontend Engineer specializing in building efficient, and user-friendly applications. Passionate about clean code and exploring new technologies.
 
 💻 Tools and Languages:
+
 Frontend: React | HTML | CSS | Tailwind CSS | JavaScript
 
 Databases: SQL | MySQL
