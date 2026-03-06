@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**fiza-n/fiza-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fiza-n/README.md
+Hi, I'm Fiza Noor 👋
+I'm a Frontend Engineer specializing in building efficient, and user-friendly applications. Passionate about clean code and exploring new technologies.
 
-Here are some ideas to get you started:
+💻 Tools and Languages:
+Frontend: React | HTML | CSS | Tailwind CSS | JavaScript
+Databases: SQL | MySQL
+Testing: Vitest
+Tools: Docker | Git 
+Programming Languages: JavaScipt | Python  | C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always eager to:
+Collaborate on exciting projects.
+Contribute to open-source communities.
+Learn and adopt emerging technologies.
+
+
+Happy coding! 🚀
