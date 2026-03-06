@@ -7,14 +7,21 @@ I'm a Frontend Engineer specializing in building efficient, and user-friendly ap
 
 💻 Tools and Languages:
 Frontend: React | HTML | CSS | Tailwind CSS | JavaScript
+
 Databases: SQL | MySQL
+
 Testing: Vitest
+
 Tools: Docker | Git 
+
 Programming Languages: JavaScipt | Python  | C++
 
 🌱 Always eager to:
+
 Collaborate on exciting projects.
+
 Contribute to open-source communities.
+
 Learn and adopt emerging technologies.
 
 
