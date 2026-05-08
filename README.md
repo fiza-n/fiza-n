@@ -8,7 +8,7 @@ I'm a Frontend Engineer specializing in building efficient, and user-friendly ap
 
 💻 Tools and Languages:
 
-Frontend: React | HTML | CSS | Tailwind CSS | JavaScript
+Frontend: React | HTML | CSS | Tailwind CSS | JavaScript | Nextjs
 
 Databases: SQL | MySQL
 
