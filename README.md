@@ -10,7 +10,7 @@ Software Engineering student at MAJU, Karachi. I build full-stack web apps with 
 
 ## 🛠️ Tech Stack
 **Frontend:** React · Next.js · JavaScript · HTML · CSS · Tailwind CSS
-**Backend & Data:** Python · Node.js · SQL · MySQL
+**Backend & Data:** Python · Node.js · MongoDB, PostgresSql
 **AI/ML:** Python ·NumPy, pandas, 
 **Languages:** JavaScript · Python · C++
 **Testing & Tools:** Vitest · Git · Docker
