@@ -5,7 +5,6 @@ Software Engineering student at MAJU, Karachi. I build full-stack web apps with 
 ## 🔭 What I'm up to
 - 🚀 Building the React frontend for **[ShipSprint](https://www.npmjs.com/package/create-shipsprint)**, a CLI that scaffolds backend projects
 - 🧠 Working through an AI/ML roadmap: Python, ML fundamentals, and deploying models behind APIs
-- 🔬 Reproducing a systems/ML research paper as a learning project
 - 🧩 Practicing DSA in C++
 - 📸 Sharing tech explainers on Instagram: [@thestacklog](https://instagram.com/thestacklog)
 
