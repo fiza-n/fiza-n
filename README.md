@@ -23,6 +23,5 @@ Software Engineering student at MAJU, Karachi. I build full-stack web apps with 
 ## 🤝 Let's connect
 - 🌐 Portfolio: (https://portfolio-zeta-one-rlaiq1xe13.vercel.app/)
 - 💼 LinkedIn: https://linkedin/in/fizanor11
-- 📬 Email: your@email.com
+- 📬 Email: fizanoor4122@gmail.com
 
-Open to collaborating on open-source, research, and student projects.
