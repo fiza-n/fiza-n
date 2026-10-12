@@ -1,31 +1,29 @@
-## Hi there 👋
+# Hi, I'm Fiza Noor 👋
 
-fiza-n/README.md
+Software Engineering student at MAJU, Karachi. I build full-stack web apps with React and Next.js, and I'm growing toward backend and AI/ML engineering: systems, data, and models that make products smarter.
 
-Hi, I'm Fiza Noor 👋
+## 🔭 What I'm up to
+- 🚀 Building the React frontend for **[ShipSprint](https://www.npmjs.com/package/create-shipsprint)**, a CLI that scaffolds backend projects
+- 🧠 Working through an AI/ML roadmap: Python, ML fundamentals, and deploying models behind APIs
+- 🔬 Reproducing a systems/ML research paper as a learning project
+- 🧩 Practicing DSA in C++
+- 📸 Sharing tech explainers on Instagram: [@thestacklog](https://instagram.com/thestacklog)
 
-I'm a Frontend Engineer specializing in building efficient, and user-friendly applications. Passionate about clean code and exploring new technologies.
+## 🛠️ Tech Stack
+**Frontend:** React · Next.js · JavaScript · HTML · CSS · Tailwind CSS
+**Backend & Data:** Python · Node.js · SQL · MySQL
+**AI/ML:** Python · (add what you've actually used: NumPy, pandas, scikit-learn, PyTorch…)
+**Languages:** JavaScript · Python · C++
+**Testing & Tools:** Vitest · Git · Docker
 
-💻 Tools and Languages:
-
-Frontend: React | HTML | CSS | Tailwind CSS | JavaScript | Nextjs
-
-Databases: SQL | MySQL
-
-Testing: Vitest
-
-Tools: Docker | Git 
-
-Programming Languages: JavaScipt | Python  | C++
-
-
-🌱 Always eager to:
-
-Collaborate on exciting projects.
-
-Contribute to open-source communities.
-
-Learn and adopt emerging technologies.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,python,cpp,mysql,docker,git" />
+</p>
 
 
-Happy coding! 🚀
+## 🤝 Let's connect
+- 🌐 Portfolio: (https://portfolio-zeta-one-rlaiq1xe13.vercel.app/)
+- 💼 LinkedIn: https://linkedin/in/fizanor11
+- 📬 Email: your@email.com
+
+Open to collaborating on open-source, research, and student projects.
