@@ -15,9 +15,6 @@ Software Engineering student at MAJU, Karachi. I build full-stack web apps with 
 **Languages:** JavaScript · Python · C++
 **Testing & Tools:** Vitest · Git · Docker
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,python,cpp,mysql,docker,git" />
-</p>
 
 
 ## 🤝 Let's connect
